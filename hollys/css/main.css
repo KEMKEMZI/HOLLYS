@@ -1,0 +1,32 @@
+@charset "utf-8";
+
+#wrap{}
+
+
+/* header 영역 */
+#header{
+    width: 100%;
+    height: 148px;
+    border-bottom: 2px solid darkred;
+}
+
+.head_inner{
+    width: 940px;
+    margin: 0 auto;
+    height: 100%;
+}
+
+.util{float: left; margin-top: 10px;}
+.util li{display: inline-block;margin-right: 10px;}
+.util li a{}
+.util li a img{}
+
+.topmenu{float: right; margin-top: 10px;}
+.topmenu li{display: inline-block;margin-left: 10px;}
+.topmenu li a{
+    font-size: 12px;
+}
+
+
+
+
